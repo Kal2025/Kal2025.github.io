@@ -93,3 +93,12 @@
   body {
    padding-bottom: 30px;
 }
+.divtag{
+   border: 2px outset red;
+  background-color:aliceblue;
+}
+.end{
+   border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
